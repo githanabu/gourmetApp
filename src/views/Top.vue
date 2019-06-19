@@ -2,7 +2,7 @@
   <div id="top">
     <div class="imgAndText">
       <img class="takoImg" src="../assets/tako.png" />
-      <p class="titleText">はなの</p>
+      <p class="titleText">はなのくん</p>
       <p class="subText">くだらないことで、ぐだらない</p>
     </div>
     <div class="buttonWrapper">
